@@ -1,0 +1,5 @@
+openai==1.6.1
+backoff==2.2.1
+pandas
+python-docx==1.1.0
+ragatouille==0.0.2b0
